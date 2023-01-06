@@ -1,7 +1,7 @@
 package abstraction;
 
 public class Transport extends AbstractClass {
-	public void car() {
+	public void car() {  //Abstraction Method Declared
 		System.out.println("Four Wheller");
 	}
 	public void auto() {
