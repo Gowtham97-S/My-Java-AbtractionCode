@@ -15,5 +15,4 @@ public class Transport extends AbstractClass {
 		list.car();
 		
 	}
-
 }
